@@ -323,6 +323,7 @@ function sendMessage(text, chat_id, token){
 }
 sendMessage(text, chat_id, token);
 ```
+> GitHub link https://github.com/Cale-Torino/Telegram_Bot_API_Quick_Example
 
 > JSON Formatter https://jsonformatter.curiousconcept.com/
 
